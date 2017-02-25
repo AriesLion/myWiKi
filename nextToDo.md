@@ -4,7 +4,7 @@
 
 **二：学习上**<br>
 1：脚本语言Python要继续学习<br>
-http://mooc.guokr.com/course/395/An-Introduction-to-Interactive-Programming-in-Python--Part-1-/
+http://mooc.guokr.com/course/395/An-Introduction-to-Interactive-Programming-in-Python--Part-1-/ <br>
 2：Vim / Emacs 学会如何配置代码补全，外观，外部命令等。<br>
 3:熟悉Unix/linux Shell和常见的命令行<br>
 
