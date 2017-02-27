@@ -9,5 +9,7 @@ http://mooc.guokr.com/course/395/An-Introduction-to-Interactive-Programming-in-P
 3:熟悉Unix/linux Shell和常见的命令行<br>
 
 **三：思想上**<br>
-1：常反思，多总结
-2：学习东西一定要踏实 踏实 踏实
+1：常反思，多总结 <br>
+2：学习东西一定要踏实 踏实 踏实 <br>
+3:强者是什么都要，不能想着因为。。而不能。。,不要给自己借口
+
