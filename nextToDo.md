@@ -10,3 +10,4 @@ http://mooc.guokr.com/course/395/An-Introduction-to-Interactive-Programming-in-P
 
 **三：思想上**<br>
 1：常反思，多总结
+2：学习东西一定要踏实 踏实 踏实
